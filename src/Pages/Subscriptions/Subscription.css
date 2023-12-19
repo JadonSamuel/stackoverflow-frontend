@@ -1,0 +1,22 @@
+/* Styles for payment plans and amounts */
+.plans .col {
+  background: #f6fbfe; /* Background color for payment plans */
+  border-radius: 6px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  margin: 1rem 0;
+  padding: 1rem 1.5rem;
+}
+
+.option .category {
+  color: var(--secondary-color); /* Text color for plan category */
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.price .para-line {
+  color: var(--para-color); /* Text color for plan price */
+  font-size: 0.9rem;
+  text-align: left;
+}
+
+/* Additional styles for other elements within payment plans if needed */
